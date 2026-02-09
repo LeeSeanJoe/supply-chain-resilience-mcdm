@@ -1,0 +1,18 @@
+======================================================================
+SENSITIVITY ANALYSIS REPORT
+======================================================================
+
+1. PROBABILITY SENSITIVITY (COO, TOPSIS)
+--------------------------------------------------
+   No transitions found - ranking is stable across all probabilities tested.
+   Finding: The recommendation is robust to cyber probability assumptions.
+
+2. WEIGHT SENSITIVITY (COO, Cost weight, TOPSIS)
+--------------------------------------------------
+   At 5% cost weight: optimal shifts from C8 to C7
+   At 30% cost weight: optimal shifts from C7 to C3
+   At 40% cost weight: optimal shifts from C3 to C1
+
+   Finding: The recommendation depends on cost prioritization.
+
+======================================================================
